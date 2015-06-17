@@ -1,0 +1,6 @@
+* Planet Panel
+** Show commodities and prices on planet
+** Show ship inventory
+* Buying and selling
+* Economy
+* Add more planets and commodities
